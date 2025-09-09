@@ -1,6 +1,9 @@
 import sys
 sys.path.append("src")
+<<<<<<< HEAD
 from src.logger import logging
+=======
+>>>>>>> 61cce4682675a8e38a44f9dd64396b98037b92fa
 
 import logger
 
